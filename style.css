@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background: #8e44ad;
+}
+
+#scenario-box {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 500px;
+}
+
+button {
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    width: 100%;
+    border: none;
+    background: #a29bfe; /* soft lavender button */
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+
+button:hover {
+    background: #005fcc;
+}
+
+#feedback {
+    font-weight: bold;
+    margin-top: 15px;
+}
